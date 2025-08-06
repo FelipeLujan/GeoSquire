@@ -21,7 +21,7 @@ import net.openid.appauth.AuthorizationServiceConfiguration
 
 object AuthConfig {
   // Hugging Face Client ID.
-  const val clientId = "0e095c88-2c45-4b3c-999f-da9c779ddafd"
+  const val clientId = "yourhfappid"
 
   // Registered redirect URI.
   //
